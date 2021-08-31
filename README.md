@@ -1,4 +1,4 @@
-### Olá! Eu Sou o Jocelito Jr2
+### Olá! Eu Sou o Jocelito Oliveira Costa Junior
 
 - 🔭 Hoje trabalho com Front-end
 - 🌱 Estudando HTML/CSS/JAVASCRIPT
