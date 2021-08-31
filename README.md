@@ -1,6 +1,6 @@
 ### Olá! Eu Sou o Jocelito Jr2
 
-- 🔭 hoje trabalho com Front-end
+- 🔭 Hoje trabalho com Front-end
 - 🌱 Estudando HTML/CSS/JAVASCRIPT
 
 <div>
