@@ -1,12 +1,12 @@
 ### Olá! Eu Sou o Jocelito Oliveira Costa Junior
 
-- 🔭 Hoje trabalho com Back-end
+- 🔭 Hoje trabalho como Desenvolvedor Full-Stack
 - 🌱 Estudando HTML/CSS/JAVASCRIPT/TYPESCRIPT/REACT/NODE
 
 <div>
   <a href="https://github.com/jocelitojr2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jocelitojr2&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocelitojr2&layout=compact&langs_count=7&theme=github_dark"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jocelitojr2&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocelitojr2&layout=compact&langs_count=7&theme=github_dark"/> -->
 </div>
   
 <div style="display: inline_block"><br>
@@ -17,7 +17,7 @@
   <img align="center" alt="Joce-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Joce-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Joce-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original-wordmark.svg">
-  <img align="right" alt="Joce-yoda" height="200" width="200" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif">
+  <img align="right" alt="Joce-yoda" height="300" width="300" src="https://raw.githubusercontent.com/darostegui/darostegui/main/octocat-moving.gif">
 </div>
   
 ##
